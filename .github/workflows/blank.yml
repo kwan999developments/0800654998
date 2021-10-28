@@ -1,0 +1,395 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://999developments.com/wp-content/uploads/2020/04/999@สันกำแพง-1-4.jpg.webp",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "backgroundColor": "#FFFFFFFF"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "999@สันกำแพง (สันเหนือ)",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 2",
+                "weight": "bold",
+                "size": "xl",
+                "color": "#000000FF",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": ".39",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "เหลือ 3 แปลงสุดท้าย",
+            "size": "md",
+            "color": "#EC3737FF",
+            "contents": []
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สอบถาม",
+              "text": "999@สันกำแพง(สันเหนือ)"
+            },
+            "color": "#EC8702FF",
+            "style": "primary",
+            "gravity": "bottom"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รายละเอียด",
+              "uri": "https://999developments.com/th/property/999skpth/"
+            },
+            "color": "#FCDE88FF"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://999developments.com/wp-content/uploads/2020/06/999@สันกำแพง-2-3.png.webp",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "999@สันกำแพง (แม่ปูคา)",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 3",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": ".81",
+                "weight": "bold",
+                "size": "xl",
+                "color": "#000000FF",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สอบถาม",
+              "text": "999@สันกำแพง(แม่ปูคา)"
+            },
+            "flex": 2,
+            "color": "#EC8702FF",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รายละเอียด",
+              "uri": "https://999developments.com/th/property/999skpth/"
+            },
+            "color": "#FCDE88FF"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://999developments.com/wp-content/uploads/2020/01/999@GYMClassic_33-2.png.webp",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "backgroundColor": "#FFFFFF"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "999คลาสสิค@จิมคาน่า",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ราคา 11.95",
+                "weight": "bold",
+                "size": "xl",
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "เหลือ 1 หลังสุดท้าย",
+                "color": "#FE3535FF",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สอบถาม",
+              "text": "999คลาสสิค@จิมคาน่า"
+            },
+            "flex": 2,
+            "color": "#EC8702FF",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รายละเอียด",
+              "uri": "https://999developments.com/th/property/999gymkhana-classic/"
+            },
+            "color": "#FCDE88FF",
+            "style": "secondary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://999developments.com/wp-content/uploads/2021/07/บ้านวังตาล-5png.webp",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "999@บ้านวังตาล เฟส 2",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เริ่มต้น 12",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": ".88",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "เปิดจอง Pre-sale",
+            "color": "#FF4646FF",
+            "contents": []
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สอบถาม",
+              "text": "999@บ้านวังตาล เฟส 2"
+            },
+            "color": "#EC8702FF",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รายละเอียด",
+              "uri": "https://999developments.com/th/property/99ban-wang-tan-pool-villa-2/"
+            },
+            "color": "#FCDE88FF"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "direction": "ltr",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "none",
+            "margin": "none",
+            "backgroundColor": "#FFFFFFFF",
+            "borderColor": "#FFFFFFFF",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชมโครงการอื่นๆของเรา",
+                "size": "xl",
+                "color": "#000000FF",
+                "align": "center",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.6435-9/228668890_709480897118933_8633674976595523296_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHlMZSZflUp1fdiev5u_f3QaO1mIkcWyn1o7WYiRxbKfdH1cRrsNli7b1fg4Y42cPoEI8I5hDDcAaDjP9hdbZ6I&_nc_ohc=sxRKHKEulX4AX_PZF0B&_nc_ht=scontent.fbkk12-4.fna&oh=c1f973e8441f8664d03ed81e35534390&oe=61A0661B",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "spacer",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "คลิกเลย",
+            "size": "xxl",
+            "color": "#FF1919FF",
+            "align": "center",
+            "gravity": "top",
+            "contents": []
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เว็บไซต์",
+              "uri": "https://999developments.com/th/"
+            },
+            "color": "#EC8702FF",
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  ]
+}
